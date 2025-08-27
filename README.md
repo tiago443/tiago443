@@ -2,6 +2,8 @@
 <!-- Banner animado ou imagem -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://br.pinterest.com/pin/157977899426449193/" width="400" alt="Coding gif">
+
 </p>
 
 <h1 align="center">Olá! Eu sou o Tiago 👋</h1>
