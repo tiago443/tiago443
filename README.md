@@ -1,3 +1,33 @@
-## Hi there 👋
 
-![images](https://github.com/user-attachments/assets/9314803e-7ab7-48d0-aa14-03ec01111d51)
+<!-- Banner animado ou imagem -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
+
+<h1 align="center">Olá! Eu sou o Tiago 👋</h1>
+
+<p align="center">
+  💻 Desenvolvedor em constante aprendizado | 🚀 Entusiasta de tecnologia
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+- 🔭 Atualmente estou trabalhando em projetos pessoais e freelas
+- 🌱 Estudando **JavaScript**, *Node.js* e *React*
+- 💬 Me pergunte sobre HTML, CSS, JS 
+- 🎯 Em busca de contribuir com projetos open source
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
