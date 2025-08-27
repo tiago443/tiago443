@@ -1,8 +1,6 @@
 
 <!-- Banner animado ou imagem -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiago443/tiago443/main/nome-da-imagem.jpg" width="400" alt="Roblox meme">
-</p>
+
 <h1 align="center">Olá! Eu sou o Tiago 👋</h1>
 
 <p align="center">
