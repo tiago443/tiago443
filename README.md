@@ -1,9 +1,8 @@
-
+S
 <!-- Banner animado ou imagem -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
-  <img src="https://br.pinterest.com/pin/157977899426449193/" width="200" alt="Coding gif">
-
+  <img src="https://www.google.com/imgres?q=roblox%20meme%20pinterst%20br&imgurl=https%3A%2F%2Fpreview.redd.it%2Frandom-roblox-memes-i-found-on-pinterest-v0-kezu4m82cytc1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D944f7c76b0e8c78fb0ca25ecd8cbe98572e0f3d0&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FEliteEden%2Fcomments%2F1c1wmqd%2Frandom_roblox_memes_i_found_on_pinterest%2F%3Ftl%3Dpt-br&docid=HIqsawisq3ESPM&tbnid=iBvqDY3dLMbCDM&vet=12ahUKEwjW4Mf_6qqPAxXUMTUKHdfgKK0QM3oECCsQAA..i&w=640&h=634&hcb=2&ved=2ahUKEwjW4Mf_6qqPAxXUMTUKHdfgKK0QM3oECCsQAA" width="350" alt="Imagem 2">
 </p>
 
 <h1 align="center">Olá! Eu sou o Tiago 👋</h1>
